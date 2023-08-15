@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Background Location With Notification</string>
+    <string name="result">Result:</string>
+    <string name="get_location">Get Background Location</string>
+</resources>
